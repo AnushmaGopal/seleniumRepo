@@ -24,7 +24,7 @@ import objectRepository.HomePage;
 import objectRepository.LoginPage;
 import objectRepository.WelcomePage;
 
-
+//class is modified in github
 public class BaseClass {
 	
 	public static ExtentReports extReport;
